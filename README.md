@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yatharth742 ; background in Math & statistics
 - 👀 I’m interested in coding and real application
 - 🌱 I use Python & SQL
-- 💞️ I previously worked in product domain as well
+- 💞️ I previously worked in product domain 
 
 
 <!---
