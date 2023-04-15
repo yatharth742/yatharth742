@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @yatharth742
+- 👋 Hi, I’m @yatharth742 ; background in Math & statistics
 - 👀 I’m interested in coding and real application
-- 🌱 I’m currently learning always
-- 💞️ I’m looking to collaborate with vibe-match coder
+- 🌱 I use Python & SQL
+- 💞️ I previously worked in product domain as well
 
 
 <!---
